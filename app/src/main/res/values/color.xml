@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_home_screen_bg">#241c20</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_yellow">#eda503</color>
+    <color name="color_light_grey">#20c3c3c3</color>
+    <color name="color__grey">#c3c3c3</color>
+    <color name="color_powerbtn_green">#238E2E</color>
+    <color name="color_carrot_brown">#D97245</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_light_brown">#da603a</color>
+    <color name="red_color">#FF3129</color>
+    <color name="color_black">#000000</color>
+    <color name="color_black_transparent">#0d000000</color>
+    <color name="color_black_transparent_dialog">#B3000000</color>
+
+</resources>

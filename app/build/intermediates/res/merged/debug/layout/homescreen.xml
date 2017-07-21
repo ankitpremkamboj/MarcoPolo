@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_RootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:ignore="NamespaceTypo">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <include
+                android:id="@+id/top_bar"
+                layout="@layout/top_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <com.marcopolo.fonts.OpensansRegular
+                android:id="@+id/tv_Error"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/top_bar"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:padding="@dimen/_5sdp"
+                android:text="Ready..."
+                android:textColor="@color/light_blue"
+                android:textSize="@dimen/_14sdp" />
+
+            <RelativeLayout
+                android:id="@+id/enabled_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_Error">
+
+
+                <ImageView
+                    android:id="@+id/iv_enable_beats"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:alpha="0.6"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/enable_beats" />
+
+                <ImageView
+                    android:id="@+id/tv_ProwerBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/enable_power" />
+            </RelativeLayout>
+
+
+            <com.marcopolo.fonts.OpensansSemibold
+                android:id="@+id/tv_Enabled"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/enabled_layout"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:text="ENABLED"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18sdp" />
+
+
+            <RelativeLayout
+                android:id="@+id/detail_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_Enabled"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_10sdp">
+
+                <com.marcopolo.fonts.OpensansRegular
+                    android:id="@+id/tv_DetailText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center"
+                    android:paddingLeft="@dimen/_15sdp"
+                    android:paddingRight="@dimen/_15sdp"
+                    android:textSize="@dimen/_14sdp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_below="@+id/tv_DetailText"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <com.marcopolo.fonts.OpensansRegular
+                        android:id="@+id/tv_DetailText1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center_vertical"
+                        android:paddingBottom="@dimen/_5sdp"
+                        android:paddingTop="@dimen/_5sdp"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_14sdp" />
+
+                    <ImageView
+                        android:id="@+id/edit_image_setphrase"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="@dimen/_10sdp"
+                        android:padding="@dimen/_5sdp"
+                        android:src="@drawable/edit" />
+
+                </LinearLayout>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/schedule_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/detail_layout"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_25sdp">
+
+                <com.marcopolo.fonts.OpensansRegular
+                    android:id="@+id/tv_Scedule_Time_Text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_14sdp" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_below="@+id/tv_Scedule_Time_Text"
+                    android:layout_centerHorizontal="true"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <com.marcopolo.fonts.OpensansRegular
+                        android:id="@+id/tv_Scedule_Time_Text1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_14sdp"
+                        android:visibility="gone" />
+
+
+                    <LinearLayout
+                        android:id="@+id/time_layout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:gravity="left"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_5sdp">
+
+                        <!--   <com.marcopolo.fonts.OpenSansRegularTxt
+                               android:layout_width="wrap_content"
+                               android:layout_height="wrap_content"
+                               android:layout_marginRight="4dp"
+                               android:text="From: "
+                               android:textColor="@android:color/white"
+                               android:textSize="@dimen/_14sdp" />-->
+
+                        <com.marcopolo.fonts.OpenSansRegularTxt
+                            android:id="@+id/tv_From"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="center_vertical|center_horizontal"
+                            android:text="From"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/_14sdp" />
+
+                        <com.marcopolo.fonts.OpenSansRegularTxt
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="4dp"
+                            android:gravity="center_vertical|center_horizontal"
+                            android:text=" - "
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/_14sdp" />
+                        <!--<com.marcopolo.fonts.OpenSansRegularTxt
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="4dp"
+                            android:text=" to "
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/_14sdp" />-->
+
+                        <com.marcopolo.fonts.OpenSansRegularTxt
+                            android:id="@+id/tv_To"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="4dp"
+                            android:gravity="center_vertical|center_horizontal"
+                            android:text="To"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/_14sdp" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/edit_time_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center_vertical"
+                        android:layout_toRightOf="@+id/time_layout"
+                        android:src="@drawable/edit" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_below="@+id/schedule_layout"
+                android:layout_marginTop="@dimen/_25sdp"
+                android:background="@color/white_54" />
+
+
+            <RelativeLayout
+                android:id="@+id/sensitity_layout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_70sdp"
+                android:layout_below="@+id/view1">
+
+                <RelativeLayout
+                    android:id="@+id/sensitivity_text"
+                    android:layout_width="@dimen/_115sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_12sdp"
+                    android:gravity="center_vertical">
+
+                    <com.marcopolo.fonts.OpensansSemibold
+                        android:id="@+id/sensitivity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:text="Sensitivity"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_13sdp" />
+
+                    <ImageView
+                        android:id="@+id/mark_sign_volume"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_8sdp"
+                        android:layout_toRightOf="@+id/sensitivity"
+                        android:padding="@dimen/_2sdp"
+                        android:src="@drawable/mark" />
+
+                    <TextView
+                        android:id="@+id/sensitivtyValue_indicator_text"
+                        android:layout_width="@dimen/_18sdp"
+                        android:layout_height="@dimen/_18sdp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_5sdp"
+                        android:layout_toRightOf="@+id/mark_sign_volume"
+                        android:background="@drawable/white"
+                        android:gravity="center"
+                        android:textColor="@color/bpBlue"
+                        android:textSize="@dimen/_12sdp"
+                        android:visibility="gone" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@android:id/content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/_48sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_15sdp"
+                    android:layout_toRightOf="@+id/sensitivity_text"
+                    android:gravity="center_vertical">
+                    <!--app.minimize.com.seek_bar_compat.SeekBarCompat-->
+                    <!--<ImageView
+                        android:id="@+id/sensitivtyValue"
+                        android:layout_width="@dimen/_200sdp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:maxHeight="@dimen/_1sdp"
+                        android:padding="@dimen/_20sdp"
+                        app:progressBackgroundColor="@color/white"
+                        app:progressColor="@color/white"
+                        app:thumbAlpha="100"
+                        app:thumbColor="@color/white" />-->
+
+                    <!--<SeekBar-->
+                    <!--android:id="@+id/SeekerAlpha"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_centerInParent="true"-->
+                    <!--android:background="@color/white"-->
+                    <!--android:thumb="@drawable/cross"-->
+                    <!--/>-->
+
+                    <com.marcopolo.views.Slider
+                        android:id="@+id/sensitivtyValue"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:background="@color/white"
+                        android:overScrollMode="never"
+                        android:visibility="gone"
+                        materialdesign:max="10"
+                        materialdesign:min="0"
+                        materialdesign:showNumberIndicator="false" />
+
+                    <com.morcopolo.fragments.Fragmentss.DiscreteSeekBar
+                        android:id="@+id/sensitivtyValue1"
+                        android:layout_width="@dimen/_190sdp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/_10sdp"
+                        android:backgroundTint="@color/white"
+                        android:foregroundTint="@color/white"
+                        android:indeterminateTint="@color/white"
+                        android:progressBackgroundTint="@color/white"
+                        android:progressTint="@color/white"
+                        android:secondaryProgressTint="@color/white"
+                        android:thumbTint="@color/white" />
+
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/view2"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_below="@+id/sensitity_layout"
+                android:background="@color/white_54" />
+
+
+            <RelativeLayout
+                android:id="@+id/recogniser_layout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_115sdp"
+                android:layout_below="@+id/view2"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/_12sdp">
+
+                <RelativeLayout
+                    android:id="@+id/recogniser_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:gravity="center_vertical">
+
+                    <com.marcopolo.fonts.OpensansSemibold
+                        android:id="@+id/tv_recogniser"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="left|center_vertical"
+                        android:text="Switch Recogniser"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_13sdp" />
+
+                    <ImageView
+                        android:id="@+id/recogniser_mark"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_8sdp"
+                        android:layout_toRightOf="@+id/tv_recogniser"
+                        android:padding="@dimen/_2sdp"
+                        android:src="@drawable/mark" />
+
+                </RelativeLayout>
+
+
+                <RadioGroup
+                    android:id="@+id/recogniser_radio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/recogniser_text"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:orientation="horizontal"
+                    android:paddingBottom="@dimen/_2sdp"
+                    android:paddingTop="@dimen/_2sdp">
+
+                    <com.marcopolo.fonts.BrandonRadioButtonBold
+                        android:id="@+id/radio1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:button="@drawable/home_radio_selector"
+                        android:checked="true"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="@dimen/_22sdp"
+                        android:text="CMU"
+                        android:textColor="@drawable/radiobutton_selector_text"
+                        android:textSize="@dimen/_18sdp" />
+
+                    <com.marcopolo.fonts.BrandonRadioButtonBold
+                        android:id="@+id/radio2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/_40sdp"
+                        android:button="@drawable/home_radio_selector"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="@dimen/_22sdp"
+                        android:text="Google"
+                        android:textColor="@drawable/radiobutton_selector_text"
+                        android:textSize="@dimen/_18sdp" />
+                </RadioGroup>
+
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/view3"
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_below="@+id/recogniser_layout"
+                android:background="@color/white_54" />
+
+
+            <RelativeLayout
+                android:id="@+id/rl_VolumeContainer"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_70sdp"
+                android:layout_below="@+id/view3">
+
+
+                <RelativeLayout
+                    android:id="@+id/volume_text"
+                    android:layout_width="@dimen/_115sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_12sdp"
+                    android:gravity="center_vertical">
+
+                    <com.marcopolo.fonts.OpensansSemibold
+                        android:id="@+id/tv_Volume"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Volume"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_13sdp" />
+
+                    <ImageView
+                        android:id="@+id/mark_sign1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_8sdp"
+                        android:layout_toRightOf="@+id/tv_Volume"
+                        android:padding="@dimen/_2sdp"
+                        android:src="@drawable/mark" />
+
+                    <TextView
+                        android:id="@+id/volume_indicator_text"
+                        android:layout_width="@dimen/_18sdp"
+                        android:layout_height="@dimen/_18sdp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_5sdp"
+                        android:layout_toRightOf="@+id/mark_sign1"
+                        android:background="@drawable/white"
+                        android:gravity="center"
+                        android:textColor="@color/bpBlue"
+                        android:textSize="@dimen/_12sdp"
+                        android:visibility="gone" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@android:id/content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/_48sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_15sdp"
+                    android:layout_toRightOf="@+id/volume_text"
+                    android:gravity="center_vertical">
+
+                    <!--<ImageView
+                        android:id="@+id/sliderNumber"
+                        android:layout_width="@dimen/_200sdp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:maxHeight="@dimen/_1sdp"
+                        android:padding="@dimen/_20sdp"
+                        app:progressBackgroundColor="@color/white"
+                        app:progressColor="@color/white"
+                        app:thumbAlpha="100"
+                        app:thumbColor="@color/white" />-->
+                    <!--<com.gc.materialdesign.views.Slider-->
+
+
+                    <com.marcopolo.views.Slider
+                        android:id="@+id/sliderNumber"
+                        android:layout_width="@dimen/_190sdp"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:background="@color/white"
+                        android:overScrollMode="never"
+                        android:visibility="gone"
+                        materialdesign:max="10"
+                        materialdesign:min="0"
+                        materialdesign:showNumberIndicator="false" />
+
+                    <com.morcopolo.fragments.Fragmentss.DiscreteSeekBar
+                        android:id="@+id/sliderNumber1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/_10sdp"
+                        android:backgroundTint="@color/white"
+                        android:foregroundTint="@color/white"
+                        android:indeterminateTint="@color/white"
+                        android:progressBackgroundTint="@color/white"
+                        android:progressTint="@color/white"
+                        android:secondaryProgressTint="@color/white"
+                        android:thumbTint="@color/white" />
+
+
+                  <!--  <com.morcopolo.fragments.Fragmentss.DiscreteSeekBar
+                        android:id="@+id/sliderNumber11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/sliderNumber1"
+                        android:layout_marginTop="30dp"
+                        app:dsb_min="1"
+                        app:dsb_max="100"
+                        app:dsb_indicatorFormatter="%04d"/>-->
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <!-- <ImageView
+                 android:id="@+id/iv_mic"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentBottom="true"
+                 android:layout_marginBottom="@dimen/_60sdp"
+                 android:layout_marginLeft="@dimen/_35sdp"
+                 android:layout_toRightOf="@+id/iv_menu"
+                 android:src="@drawable/selector_mic_btn"
+                 android:visibility="gone" />
+
+             <ImageView
+                 android:id="@+id/iv_menu"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentBottom="true"
+                 android:layout_centerHorizontal="true"
+                 android:layout_marginBottom="@dimen/_60sdp"
+                 android:src="@drawable/selector_setting"
+                 android:visibility="gone" />
+
+             <ImageView
+                 android:id="@+id/iv_Phone"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentBottom="true"
+                 android:layout_marginBottom="@dimen/_60sdp"
+                 android:layout_marginRight="@dimen/_35sdp"
+                 android:layout_toLeftOf="@+id/iv_menu"
+                 android:src="@drawable/selector_maropolo_btn"
+                 android:visibility="gone" />-->
+
+            <FrameLayout
+                android:id="@+id/fl_NavigationContainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <FrameLayout
+                android:id="@+id/frame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"></FrameLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\setting_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\setting_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\setting_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\setting_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\phone_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\phone_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\scroll.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\scroll.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\share.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\share.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\enable_beats.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\enable_beats.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\tick.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\tick.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\background.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\background.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\header.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\header.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\home_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\home_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\phone_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\phone_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\home_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\home_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\inactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\inactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\back.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\back.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\cross_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\cross_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\bullet.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\bullet.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\switch_on.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\switch_on.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\setting_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\setting_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\mark.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\mark.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\blue.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\blue.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\mp3.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\mp3.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\footer.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\footer.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\field.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\field.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\splash_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\splash_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\microphone_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\microphone_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\ad.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\ad.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\enable_power.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\enable_power.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\mp3_button_bg.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\mp3_button_bg.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\stop_red.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\stop_red.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\microphone_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\microphone_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\beats.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\beats.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\stop_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\stop_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\disabled.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\disabled.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\cross_blue_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\cross_blue_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\scroll_box.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\scroll_box.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\microphonee.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\microphonee.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\microphone_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\microphone_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\home_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\home_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\next.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\next.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\radio_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\radio_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\radio_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\radio_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\bar_filled.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\bar_filled.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\edit.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\switch_off.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\switch_off.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\drawable-large-mdpi-v4\\phone_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-large-mdpi\\phone_active_yellow.png"
+    }
+]

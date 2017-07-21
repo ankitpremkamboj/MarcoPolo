@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="daily">
+        <item quantity="one">Denně</item>
+        <item quantity="few">Každé <ns1:g id="number">%d</ns1:g> dny</item>
+        <item quantity="other">Každých <ns1:g id="number">%d</ns1:g> dnů</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="one">; jednou</item>
+        <item quantity="few">; <ns1:g id="number">%d</ns1:g> krát</item>
+        <item quantity="other">; <ns1:g id="number">%d</ns1:g> krát</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="one">Opakovat <ns1:g id="event_count">%d</ns1:g> událost</item>
+        <item quantity="few">Opakovat <ns1:g id="event_count">%d</ns1:g> události</item>
+        <item quantity="other">Opakovat <ns1:g id="event_count">%d</ns1:g> událostí</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý den</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. den</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý měsíc</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. měsíc</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý týden</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. týden</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <!-- Singular form [CHAR LIMIT=30] -->
+        <item quantity="one">Každý rok</item>
+        <item quantity="few">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+        <!-- Plural form [CHAR LIMIT=30] -->
+        <item quantity="other">Každý <ns1:g id="count">%d</ns1:g>. rok</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="one">Týdně <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="few">Každé <ns1:g id="days_of_week">%2$s</ns1:g> týdny v <ns1:g id="days_of_week">%2$s</ns1:g></item>
+        <item quantity="other">Každé <ns1:g id="number">%1$d</ns1:g> týdny v <ns1:g id="days_of_week">%2$s</ns1:g></item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="acessibility_recurrence_choose_end_date_description">změnit do</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povolit"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktivovat služby Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivace služeb Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalovat"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v telefonu nemáte."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které v tabletu nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Instalace služeb Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služeb Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> má potíže se službami Google Play. Pokud problém přetrvává, obraťte se na vývojáře s žádostí o pomoc."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> vyžaduje služby Google Play, které ve vašem zařízení nejsou podporovány. S žádostí o pomoc kontaktujte výrobce zařízení."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Služby Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovat"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> je třeba aktualizovat služby Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizace služeb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Ke spuštění aplikace <ns1:g id="APP_NAME">%1$s</ns1:g> jsou potřeba služby Google Play, které jsou právě aktualizovány."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Probíhá aktualizace služeb Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otevřít v telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Přihlásit se"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Přihlásit se k účtu Google"</string>
+    <string name="day_c">DEN</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="day_picker_description">Výběr dnu v měsíci</string>
+    <string name="deleted_key">%1$s smazáno</string>
+    <string name="done_label">Hotovo</string>
+    <string name="endByDate">; do <ns1:g id="date">%s</ns1:g></string>
+    <string name="every_weekday">"Každý pracovní den (Mon\u2013Fri)"</string>
+    <string name="expiration_picker_seperator">/</string>
+    <string name="hint_time_zone_search">Napište název země</string>
+    <string name="hms_picker_hours_label">H</string>
+    <string name="hms_picker_minutes_label">M</string>
+    <string name="hms_picker_seconds_label">S</string>
+    <string name="hour_picker_description">Kruhový výběr hodiny</string>
+    <string name="hours_label">h</string>
+    <string name="hours_label_description">hodin</string>
+    <string name="item_is_selected">%1$s vybráno</string>
+    <string name="max_error">Vložte prosím číslo menší nebo rovno %1$d</string>
+    <string name="mdtp_date_v1_monthyear">LLLL yyyy</string>
+    <string msgid="3968620852217927702" name="mdtp_day_picker_description">"Dny uspořádané po měsících"</string>
+    <string msgid="6908431551612331381" name="mdtp_deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> smazáno"</string>
+    <string msgid="7007948707597430919" name="mdtp_done_label">"Hotovo"</string>
+    <string msgid="7586639618712934060" name="mdtp_hour_picker_description">"Kruhový posuvník hodin"</string>
+    <string msgid="2674929164900463786" name="mdtp_item_is_selected">"Vybrána položka <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="mdtp_minute_picker_description">"Kruhový posuvník minut"</string>
+    <string msgid="3973338219107019769" name="mdtp_select_day">"Vyberte měsíc a den"</string>
+    <string msgid="7651068754188418859" name="mdtp_select_hours">"Zvolte hodiny"</string>
+    <string msgid="8327182090226828481" name="mdtp_select_minutes">"Zvolte minuty"</string>
+    <string msgid="2603330600102539372" name="mdtp_select_year">"Vyberte rok"</string>
+    <string msgid="6963340404644587098" name="mdtp_year_picker_description">"Seznam roků"</string>
+    <string name="min_error">Vložte prosím číslo větší nebo rovno %1$d</string>
+    <string name="min_max_error">Vložte prosím číslo v rozmezí %1$d a %2$d</string>
+    <string name="minute_picker_description">Kruhový výběr minuty</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_label_description">minut</string>
+    <string name="month_c">MĚSÍC</string>
+    <string name="monthly">Měsíčně</string>
+    <string name="no_results_found">Nenalezeno</string>
+    <string name="number_delete">Smazat</string>
+    <string name="number_picker_minus_label">—</string>
+    <string name="number_picker_plus_minus">+/-</string>
+    <string name="number_picker_seperator">.</string>
+    <string name="palestine_display_name">Palestina</string>
+    <string name="picker_cancel">Zrušit</string>
+    <string name="picker_set">Potvrdit</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="recurrence_end_continously">Navždy</string>
+    <string name="recurrence_end_count_label">Pouze několikrát</string>
+    <string name="recurrence_end_date">Do <ns1:g id="date">%s</ns1:g></string>
+    <string name="recurrence_end_date_label">Do data</string>
+    <string name="recurrence_month_pattern_by_day">stejný den každý měsíc</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="save_label">Hotovo</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Hledat"</string>
+    <string name="searchview_description_clear">Vymazat</string>
+    <string name="seconds_label">s</string>
+    <string name="seconds_label_description">sekund</string>
+    <string name="select_day">Vyber měsíc a den</string>
+    <string name="select_hours">Vyberte hodinu</string>
+    <string name="select_minutes">Vyberte minutu</string>
+    <string name="select_year">Vyber rok</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="switch_off">VYPNUTO</string>
+    <string name="switch_on">ZAPNUTO</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="timer_delete">Smazat</string>
+    <string name="year_c">ROK</string>
+    <string name="year_picker_description">Seznam roků</string>
+    <string name="yearly_plain">Ročně</string>
+</resources>

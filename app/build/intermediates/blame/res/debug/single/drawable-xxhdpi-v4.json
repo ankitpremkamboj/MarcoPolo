@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\stop_red.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\stop_red.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\blue.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\blue.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bullet.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\bullet.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mp3.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\mp3.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\switch_on.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\switch_on.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cross_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\cross_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\header.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\header.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_disabled_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\enable_beats.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\enable_beats.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\setting_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\setting_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\textfield_focused_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_longpressed_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\list_longpressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\textfield_disabled_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\edit.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\microphone_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\microphone_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\footer.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\footer.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mp3_button_bg.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\mp3_button_bg.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ad.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\ad.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\stop_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\stop_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\scroll_box.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\scroll_box.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\enable_power.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\enable_power.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bar_filled.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\bar_filled.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_default_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\phone_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\phone_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\home_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\textfield_activated_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\microphone_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\microphone_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\field.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\field.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_pressed_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\microphone_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\microphone_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\home_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\launcher.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\launcher.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\radio_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\switch_off.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\switch_off.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_focused_holo.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mark.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\mark.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\phone_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\phone_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\radio_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\radio_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\home_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_recurrence_bubble_outline_disabled.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\background.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tick.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\tick.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\setting_deactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\setting_deactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\setting_active.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\setting_active.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\share.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\textfield_disabled_focused_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\next.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\scroll.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\scroll.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_focused_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\beats.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\beats.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_recurrence_bubble_outline.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\disabled.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\disabled.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\phone_active_yellow.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\phone_active_yellow.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\splash_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cross_blue_image.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\cross_blue_image.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_recurrence_bubble_disabled.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_recurrence_bubble_fill.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\microphonee.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\microphonee.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sprite_check.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\drawable-xxhdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\inactive.png",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\drawable-xxhdpi\\inactive.png"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\textfield_default_holo_light.9.png",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\drawable-xxhdpi-v4\\textfield_default_holo_light.9.png"
+    }
+]

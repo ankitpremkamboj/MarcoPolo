@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_false_alarm_hint.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\layout_false_alarm_hint.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\set_phrase_fragment.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\set_phrase_fragment.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\dp_example.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\904311675263f53349fed3228a496b8dc80e8b61\\output\\res\\layout\\dp_example.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_notification_resume.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\layout_notification_resume.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_date_picker_header_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_false_alarm.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\activity_false_alarm.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\schedule_time_dilaog.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\schedule_time_dilaog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\keyboard_right_drawable_with_header.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\expiration_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\three_keys_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\three_keys_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\three_keys_view_right_drawable.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\keyboard_right_drawable.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\toggle_btn_bg.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\toggle_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\timezonepickerview.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_fragment_kitkat.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\setting_fragment_kitkat.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\date_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_done_button.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item_suggestion_list.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\list_item_suggestion_list.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\time_picker_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\time_picker_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\progress_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_notification.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\layout_notification.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\radial_time_header_label.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\radial_time_header_label.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\top_bar.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\top_bar.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\toolbar.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\expiration_picker_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\expiration_picker_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\splash_screen.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\three_keys_view_leftright.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\number_picker_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\number_picker_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_date_picker_done_button.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\calendar_date_picker_done_button.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\preference_widget_switch.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\5f393f09dd783f4dd69bd75988d8c8865105a0c8\\output\\res\\layout\\preference_widget_switch.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\number_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\number_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\homescreen.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\homescreen.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\keyboard.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\time_zone_filter_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\time_zone_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\time_zone_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_date_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_fragment.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\setting_fragment.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\app_error_dialog.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\app_error_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\radial_time_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\message_suggestion.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\message_suggestion.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\keyboard_text.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\keyboard_text.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_false_alarm.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\layout_false_alarm.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\sdp_example.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\904311675263f53349fed3228a496b8dc80e8b61\\output\\res\\layout\\sdp_example.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\tab.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\tab.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\time_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_title_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_date_picker_view_animator.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\recurrencepicker_freq_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_year_label_text_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\app_error_dialog_new.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\app_error_dialog_new.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\snackbar.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\word_missing_dialog.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\word_missing_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\audio_recorder.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\audio_recorder.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\webview.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\hms_picker_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\hms_picker_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\recurrencepicker.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\recurrencepicker.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\empty_time_zone_item.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\calendar_date_picker_selected_date.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_header_label.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\keyboard_text_with_header.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\hms_picker_dialog.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\hms_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_year_label_text_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\recurrencepicker_end_text.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\number_indicator_spinner.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\date_picker_view.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\date_picker_view.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\keyboard_with_header.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\keyboard_with_header.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\three_keys_view_text.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\layout\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\layout\\color_selector.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\layout\\color_selector.xml"
+    }
+]

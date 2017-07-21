@@ -1,0 +1,447 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:6:5-34
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.PREVENT_POWER_KEY
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:15:5-17:47
+	tools:ignore
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:16:9-62
+uses-permission#android.permission.VIBRATE
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:19:5-21:31
+REJECTED from [com.wdullaer:materialdatetimepicker:2.2.0] C:\Users\ankit\.android\build-cache\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\output\AndroidManifest.xml:26:5-66
+	tools:node
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:21:9-28
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:20:9-50
+uses-permission#android.permission.DUMP
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:22:5-24:47
+	tools:ignore
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:26:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.1] C:\Users\ankit\.android\build-cache\e8ad5693b9986eb416e965a96dfc5222e21be38d\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.10] C:\Users\ankit\.android\build-cache\ba66ed8702ac0de8e261e70bad4cc8e8bcaae28d\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.1] C:\Users\ankit\.android\build-cache\a2c5a720bdb8b8b8717d24b6230efcdedf98de00\output\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.8] C:\Users\ankit\.android\build-cache\11a60749d579dafa50e1c977e41f676d4d0a37f1\output\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.12] C:\Users\ankit\.android\build-cache\7c21558d4f1937c498781087ba92898a8ecc9914\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:28:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:34:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:34:22-65
+application
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:37:5-92:19
+MERGED from [mp2.9.8:library:unspecified] E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.1] C:\Users\ankit\.android\build-cache\e8ad5693b9986eb416e965a96dfc5222e21be38d\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.10] C:\Users\ankit\.android\build-cache\ba66ed8702ac0de8e261e70bad4cc8e8bcaae28d\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.1] C:\Users\ankit\.android\build-cache\a2c5a720bdb8b8b8717d24b6230efcdedf98de00\output\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.8] C:\Users\ankit\.android\build-cache\11a60749d579dafa50e1c977e41f676d4d0a37f1\output\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.12] C:\Users\ankit\.android\build-cache\7c21558d4f1937c498781087ba92898a8ecc9914\output\AndroidManifest.xml:27:5-20
+MERGED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:39:5-43:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ankit\.android\build-cache\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ankit\.android\build-cache\34b078b0a566807b09c16dd8351aa3d132c5836d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ankit\.android\build-cache\2a18de6dd7aa7336b48950054d6e003855ba4319\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\ankit\.android\build-cache\ae26a5164db6761d1d3e97fb6212f571f98a1f36\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\ankit\.android\build-cache\363bc1e8bd53941716bbc6607e09bc033e494eff\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\ankit\.android\build-cache\b5b3f4703bdc4f1c629b4e9a0e0dfa8e9de84110\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\ankit\.android\build-cache\f5cd68d7cd34e3e46ec36f76432576348e8f2f2b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\ankit\.android\build-cache\22d2c004ad0dc3202258644c90c8b78a13d2cd60\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\ankit\.android\build-cache\25ed2a02dcc998d28ff77d6fb06b43beaeb4ab49\output\AndroidManifest.xml:19:5-21:19
+MERGED from [org.jraf:android-switch-backport:1.4.0] C:\Users\ankit\.android\build-cache\5f393f09dd783f4dd69bd75988d8c8865105a0c8\output\AndroidManifest.xml:35:5-20
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] C:\Users\ankit\.android\build-cache\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\output\AndroidManifest.xml:11:5-47
+MERGED from [com.wdullaer:materialdatetimepicker:2.2.0] C:\Users\ankit\.android\build-cache\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\output\AndroidManifest.xml:28:5-20
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\ankit\.android\build-cache\8a7fb2d3d612dd09af2528212e4976d9b3a74cc6\output\AndroidManifest.xml:27:5-28:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ankit\.android\build-cache\33e65f5ad6c7c8123a07893bff56d1903f2d59f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ankit\.android\build-cache\fe218583ec5b7bbc8559488154f6ea9e65e8b65c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ankit\.android\build-cache\e5a247d8bd96ed472901ac0be5f08a50ac6fe326\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ankit\.android\build-cache\47afe540574da568a440245dea0029eb0e63e85f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ankit\.android\build-cache\7f3dfdbb3e032ebaf113d67fd844cc7f89ec53e5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ankit\.android\build-cache\0940a02797b10f4d98d244f5efd004f20cef5c47\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:39:9-35
+	android:icon
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:41:9-42
+	android:largeHeap
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:40:9-33
+	android:theme
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:43:9-62
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:38:9-50
+meta-data#com.google.android.gms.version
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:44:9-46:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\ankit\.android\build-cache\25ed2a02dcc998d28ff77d6fb06b43beaeb4ab49\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:45:13-58
+activity#com.marcopolo.screens.SplashScreen
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:screenOrientation
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:49:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.marcopolo.Tabs.TabActivity
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:57:9-61:75
+	android:exported
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:59:13-36
+	android:configChanges
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:60:13-59
+	android:theme
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:61:13-72
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:58:13-45
+service#com.marcopolo.services.TriggerService
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:63:9-60
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:63:18-57
+service#com.marcopolo.services.CMUVoiceRecognitionService
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:64:9-72
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:64:18-69
+service#com.marcopolo.services.WakeUpService
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:65:9-59
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:65:18-56
+service#com.marcopolo.services.GoogleVoiceService
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:66:9-64
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:66:18-61
+receiver#com.marcopolo.receiver.BootCompleteReceiver
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:68:19-64
+intent-filter#android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE+android.intent.action.BOOT_COMPLETED
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:69:13-72:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:70:17-79
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:70:25-76
+action#android.intent.action.ACTION_EXTERNAL_APPLICATIONS_AVAILABLE
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:71:17-103
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:71:25-100
+receiver#com.marcopolo.receiver.StartServiceReceiver
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:74:9-67
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:74:19-64
+receiver#com.marcopolo.receiver.EndServiceReceiver
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:75:9-65
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:75:19-62
+receiver#com.marcopolo.receiver.FalseAlarmPopUpReceiver
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:76:9-70
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:76:19-67
+meta-data#io.fabric.ApiKey
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:79:9-81:72
+	android:value
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:81:13-69
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:80:13-44
+service#com.marcopolo.services.NotificationService
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:83:9-65
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:83:18-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:86:9-89:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:88:13-122
+	android:theme
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:89:13-61
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:87:13-65
+activity#com.marcopolo.utils.WebviewActivity
+ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:90:9-59
+	android:name
+		ADDED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml:90:19-56
+uses-sdk
+INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ankit\.android\build-cache\8112cba939969427e3907258411078bf4ad619b8\output\AndroidManifest.xml:18:5-42
+MERGED from [mp2.9.8:library:unspecified] E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.1] C:\Users\ankit\.android\build-cache\e8ad5693b9986eb416e965a96dfc5222e21be38d\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.10] C:\Users\ankit\.android\build-cache\ba66ed8702ac0de8e261e70bad4cc8e8bcaae28d\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.1] C:\Users\ankit\.android\build-cache\a2c5a720bdb8b8b8717d24b6230efcdedf98de00\output\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.8] C:\Users\ankit\.android\build-cache\11a60749d579dafa50e1c977e41f676d4d0a37f1\output\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.12] C:\Users\ankit\.android\build-cache\7c21558d4f1937c498781087ba92898a8ecc9914\output\AndroidManifest.xml:23:5-43
+MERGED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:37:5-42
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] C:\Users\ankit\.android\build-cache\904311675263f53349fed3228a496b8dc80e8b61\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ankit\.android\build-cache\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ankit\.android\build-cache\34b078b0a566807b09c16dd8351aa3d132c5836d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ankit\.android\build-cache\2a18de6dd7aa7336b48950054d6e003855ba4319\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\ankit\.android\build-cache\1d045387fb621b859456d3d926b9797411ed9a9d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\ankit\.android\build-cache\ae26a5164db6761d1d3e97fb6212f571f98a1f36\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\ankit\.android\build-cache\363bc1e8bd53941716bbc6607e09bc033e494eff\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\ankit\.android\build-cache\b5b3f4703bdc4f1c629b4e9a0e0dfa8e9de84110\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\ankit\.android\build-cache\f5cd68d7cd34e3e46ec36f76432576348e8f2f2b\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\ankit\.android\build-cache\22d2c004ad0dc3202258644c90c8b78a13d2cd60\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\ankit\.android\build-cache\25ed2a02dcc998d28ff77d6fb06b43beaeb4ab49\output\AndroidManifest.xml:17:5-42
+MERGED from [com.doomonafireball.betterpickers:library:1.6.0] C:\Users\ankit\.android\build-cache\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\output\AndroidManifest.xml:8:5-10:41
+MERGED from [org.jraf:android-switch-backport:1.4.0] C:\Users\ankit\.android\build-cache\5f393f09dd783f4dd69bd75988d8c8865105a0c8\output\AndroidManifest.xml:31:5-33:41
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] C:\Users\ankit\.android\build-cache\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wdullaer:materialdatetimepicker:2.2.0] C:\Users\ankit\.android\build-cache\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\output\AndroidManifest.xml:22:5-24:41
+MERGED from [org.adw.library:discrete-seekbar:1.0.1] C:\Users\ankit\.android\build-cache\8a7fb2d3d612dd09af2528212e4976d9b3a74cc6\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ankit\.android\build-cache\33e65f5ad6c7c8123a07893bff56d1903f2d59f4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ankit\.android\build-cache\fe218583ec5b7bbc8559488154f6ea9e65e8b65c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ankit\.android\build-cache\e5a247d8bd96ed472901ac0be5f08a50ac6fe326\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ankit\.android\build-cache\47afe540574da568a440245dea0029eb0e63e85f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ankit\.android\build-cache\7f3dfdbb3e032ebaf113d67fd844cc7f89ec53e5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ankit\.android\build-cache\0940a02797b10f4d98d244f5efd004f20cef5c47\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ankit\.android\build-cache\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+		INJECTED from E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\src\main\AndroidManifest.xml
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:9-241
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:172-195
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:87-122
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:53-86
+	android:theme
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:196-239
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\ankit\.android\build-cache\6db16e7177fd6dd45c77f7d278f258173fdad7c0\output\AndroidManifest.xml:42:43-87
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ankit\.android\build-cache\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ankit\.android\build-cache\34b078b0a566807b09c16dd8351aa3d132c5836d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ankit\.android\build-cache\2a18de6dd7aa7336b48950054d6e003855ba4319\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ankit\.android\build-cache\33e65f5ad6c7c8123a07893bff56d1903f2d59f4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ankit\.android\build-cache\fe218583ec5b7bbc8559488154f6ea9e65e8b65c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ankit\.android\build-cache\e5a247d8bd96ed472901ac0be5f08a50ac6fe326\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ankit\.android\build-cache\47afe540574da568a440245dea0029eb0e63e85f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ankit\.android\build-cache\7f3dfdbb3e032ebaf113d67fd844cc7f89ec53e5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ankit\.android\build-cache\0940a02797b10f4d98d244f5efd004f20cef5c47\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ankit\.android\build-cache\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ankit\.android\build-cache\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\ankit\.android\build-cache\2c545a95c735c0fe3456383bf124dbea51ae85eb\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\ankit\.android\build-cache\363bc1e8bd53941716bbc6607e09bc033e494eff\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\ankit\.android\build-cache\363bc1e8bd53941716bbc6607e09bc033e494eff\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\ankit\.android\build-cache\363bc1e8bd53941716bbc6607e09bc033e494eff\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\ankit\.android\build-cache\363bc1e8bd53941716bbc6607e09bc033e494eff\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:24:9-117
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:24:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:26:9-115
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:26:78-113
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.1] C:\Users\ankit\.android\build-cache\8b1d87e4c6862e0ddc94385561e629d53e7ab8e1\output\AndroidManifest.xml:26:18-77
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\ankit\.android\build-cache\7ac9e837a743cb6012a200ad85b62a8c2e795124\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\ankit\.android\build-cache\b26c932f24f506a7b8ed01590e70b5a5e4a95284\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\ankit\.android\build-cache\10b19bcfc313fed153e67ab1ecfc0ec4641daaf9\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\ankit\.android\build-cache\b70a601471f3d15f982672b01a365b85a4439176\output\AndroidManifest.xml:6:79-124

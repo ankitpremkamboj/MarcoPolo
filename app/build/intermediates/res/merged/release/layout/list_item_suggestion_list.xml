@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/_5sdp"
+    android:paddingTop="@dimen/_5sdp">
+
+    <!--android:background="@drawable/default_backround_list_item"-->
+
+
+    <com.marcopolo.fonts.OpensansRegular
+        android:id="@+id/tv_Suggestion"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sdp"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_toLeftOf="@+id/tvCheck"
+        android:gravity="center_vertical|left"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="@dimen/_10sdp"
+        android:text="TextView"
+        android:textColor="@color/color_white"
+        android:textSize="@dimen/_16sdp" />
+
+
+    <TextView
+        android:id="@+id/tvCheck"
+        android:layout_width="@dimen/_45sdp"
+        android:layout_height="@dimen/_45sdp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:gravity="center"
+        android:text="Tic"
+        android:textColor="@color/color_white"
+        android:textSize="@dimen/_18sdp" />
+
+</RelativeLayout>

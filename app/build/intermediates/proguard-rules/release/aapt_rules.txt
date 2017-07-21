@@ -1,0 +1,404 @@
+# view res/layout/activity_false_alarm.xml #generated:2
+-keep class android.support.constraint.ConstraintLayout { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:65
+# view res/layout/expiration_picker_view.xml #generated:66
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/toolbar.xml #generated:2
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/calendar_date_picker_view_animator.xml #generated:16
+-keep class com.doomonafireball.betterpickers.calendardatepicker.AccessibleDateAnimator { <init>(...); }
+
+# view res/layout/calendar_year_label_text_view.xml #generated:16
+-keep class com.doomonafireball.betterpickers.calendardatepicker.TextViewWithCircularIndicator { <init>(...); }
+
+# view res/layout/date_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.datepicker.DatePicker { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.datepicker.DateView { <init>(...); }
+
+# view res/layout/expiration_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.expirationpicker.ExpirationPicker { <init>(...); }
+
+# view res/layout/expiration_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.expirationpicker.ExpirationView { <init>(...); }
+
+# view res/layout/hms_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.hmspicker.HmsPicker { <init>(...); }
+
+# view res/layout/hms_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.hmspicker.HmsView { <init>(...); }
+
+# view res/layout/number_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.numberpicker.NumberPicker { <init>(...); }
+
+# view res/layout/number_picker_view.xml #generated:102
+-keep class com.doomonafireball.betterpickers.numberpicker.NumberPickerErrorTextView { <init>(...); }
+
+# view res/layout/number_picker_view.xml #generated:16
+-keep class com.doomonafireball.betterpickers.numberpicker.NumberView { <init>(...); }
+
+# view land\res/layout-land/radial_time_picker_dialog.xml #generated:58
+# view res/layout/radial_time_picker_dialog.xml #generated:34
+-keep class com.doomonafireball.betterpickers.radialtimepicker.RadialPickerLayout { <init>(...); }
+
+# view res/layout/recurrencepicker.xml #generated:122
+# view res/layout/recurrencepicker.xml #generated:147
+-keep class com.doomonafireball.betterpickers.recurrencepicker.LinearLayoutWithMaxWidth { <init>(...); }
+
+# view res/layout/recurrencepicker.xml #generated:132
+# view res/layout/recurrencepicker.xml #generated:134
+# view res/layout/recurrencepicker.xml #generated:136
+# view res/layout/recurrencepicker.xml #generated:138
+# view res/layout/recurrencepicker.xml #generated:140
+# view res/layout/recurrencepicker.xml #generated:142
+# view res/layout/recurrencepicker.xml #generated:144
+# view res/layout/recurrencepicker.xml #generated:157
+# view res/layout/recurrencepicker.xml #generated:159
+# view res/layout/recurrencepicker.xml #generated:161
+# view res/layout/recurrencepicker.xml #generated:163
+-keep class com.doomonafireball.betterpickers.recurrencepicker.WeekButton { <init>(...); }
+
+# view res/layout/time_picker_dialog.xml #generated:7
+-keep class com.doomonafireball.betterpickers.timepicker.TimePicker { <init>(...); }
+
+# view res/layout/time_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.timepicker.TimerView { <init>(...); }
+
+# view res/layout/calendar_date_picker_selected_date.xml #generated:27
+-keep class com.doomonafireball.betterpickers.widget.AccessibleLinearLayout { <init>(...); }
+
+# view res/layout/calendar_date_picker_selected_date.xml #generated:60
+# view res/layout/radial_time_header_label.xml #generated:100
+# view res/layout/radial_time_header_label.xml #generated:50
+# view res/layout/radial_time_header_label.xml #generated:91
+-keep class com.doomonafireball.betterpickers.widget.AccessibleTextView { <init>(...); }
+
+# view res/layout/number_picker_view.xml #generated:11
+-keep class com.doomonafireball.betterpickers.widget.AutoScrollHorizontalScrollView { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:61
+# view res/layout/expiration_picker_view.xml #generated:62
+-keep class com.doomonafireball.betterpickers.widget.UnderlinePageIndicatorPicker { <init>(...); }
+
+# view res/layout/date_picker_view.xml #generated:22
+# view res/layout/date_picker_view.xml #generated:29
+# view res/layout/date_picker_view.xml #generated:36
+# view res/layout/expiration_picker_view.xml #generated:22
+# view res/layout/expiration_picker_view.xml #generated:29
+# view res/layout/expiration_picker_view.xml #generated:37
+# view res/layout/hms_picker_view.xml #generated:22
+# view res/layout/hms_picker_view.xml #generated:29
+# view res/layout/hms_picker_view.xml #generated:38
+# view res/layout/hms_picker_view.xml #generated:45
+# view res/layout/hms_picker_view.xml #generated:52
+# view res/layout/hms_picker_view.xml #generated:61
+# view res/layout/hms_picker_view.xml #generated:68
+# view res/layout/hms_picker_view.xml #generated:75
+# view res/layout/number_picker_view.xml #generated:26
+# view res/layout/number_picker_view.xml #generated:33
+# view res/layout/number_picker_view.xml #generated:41
+# view res/layout/number_picker_view.xml #generated:48
+# view res/layout/number_picker_view.xml #generated:56
+# view res/layout/time_picker_view.xml #generated:22
+# view res/layout/time_picker_view.xml #generated:29
+# view res/layout/time_picker_view.xml #generated:36
+# view res/layout/time_picker_view.xml #generated:44
+# view res/layout/time_picker_view.xml #generated:51
+# view res/layout/time_picker_view.xml #generated:58
+-keep class com.doomonafireball.betterpickers.widget.ZeroTopPaddingTextView { <init>(...); }
+
+# view res/layout/app_error_dialog_new.xml #generated:67
+# view res/layout/app_error_dialog_new.xml #generated:74
+# view res/layout/dialog.xml #generated:58
+# view res/layout/dialog.xml #generated:66
+# view res/layout/message_suggestion.xml #generated:66
+# view res/layout/message_suggestion.xml #generated:73
+# view res/layout/snackbar.xml #generated:23
+-keep class com.gc.materialdesign.views.ButtonFlat { <init>(...); }
+
+# view res/layout/progress_dialog.xml #generated:17
+-keep class com.gc.materialdesign.views.ProgressBarCircularIndeterminate { <init>(...); }
+
+# view res/layout/color_selector.xml #generated:44
+# view res/layout/color_selector.xml #generated:69
+# view res/layout/color_selector.xml #generated:94
+# view res/layout/setting_fragment_kitkat.xml #generated:58
+# view res/layout/setting_fragment_kitkat.xml #generated:99
+-keep class com.gc.materialdesign.views.Slider { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/audio_recorder.xml #generated:97
+# view res/layout/tab.xml #generated:39
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.marcopolo.Tabs.TabActivity { <init>(...); }
+
+# view res/layout/audio_recorder.xml #generated:18
+-keep class com.marcopolo.audiowave.WaveformView { <init>(...); }
+
+# view res/layout/homescreen.xml #generated:411
+# view res/layout/homescreen.xml #generated:423
+# view res/layout/layout_false_alarm.xml #generated:172
+# view res/layout/layout_false_alarm.xml #generated:184
+# view res/layout/setting_fragment.xml #generated:359
+# view res/layout/setting_fragment.xml #generated:370
+-keep class com.marcopolo.fonts.BrandonRadioButtonBold { <init>(...); }
+
+# view res/layout/layout_false_alarm.xml #generated:23
+# view res/layout/layout_false_alarm.xml #generated:245
+# view res/layout/setting_fragment.xml #generated:385
+-keep class com.marcopolo.fonts.OpenSansBoldTxt { <init>(...); }
+
+# view res/layout/setting_fragment.xml #generated:218
+-keep class com.marcopolo.fonts.OpenSansLightTxt { <init>(...); }
+
+# view res/layout/homescreen.xml #generated:184
+# view res/layout/homescreen.xml #generated:194
+# view res/layout/homescreen.xml #generated:211
+# view res/layout/layout_false_alarm.xml #generated:121
+# view res/layout/layout_false_alarm.xml #generated:138
+# view res/layout/layout_false_alarm.xml #generated:154
+# view res/layout/layout_false_alarm.xml #generated:197
+# view res/layout/layout_false_alarm.xml #generated:211
+# view res/layout/layout_false_alarm.xml #generated:227
+# view res/layout/layout_false_alarm.xml #generated:57
+# view res/layout/layout_false_alarm.xml #generated:67
+# view res/layout/layout_false_alarm.xml #generated:94
+# view res/layout/setting_fragment.xml #generated:271
+# view res/layout/setting_fragment.xml #generated:279
+# view res/layout/setting_fragment.xml #generated:294
+-keep class com.marcopolo.fonts.OpenSansRegularTxt { <init>(...); }
+
+# view res/layout/homescreen.xml #generated:105
+# view res/layout/homescreen.xml #generated:137
+# view res/layout/homescreen.xml #generated:158
+# view res/layout/homescreen.xml #generated:27
+# view res/layout/homescreen.xml #generated:85
+# view res/layout/list_item_suggestion_list.xml #generated:13
+# view res/layout/set_phrase_fragment.xml #generated:130
+# view res/layout/set_phrase_fragment.xml #generated:185
+-keep class com.marcopolo.fonts.OpensansRegular { <init>(...); }
+
+# view res/layout/homescreen.xml #generated:259
+# view res/layout/homescreen.xml #generated:377
+# view res/layout/homescreen.xml #generated:462
+# view res/layout/homescreen.xml #generated:65
+# view res/layout/layout_false_alarm.xml #generated:109
+# view res/layout/layout_false_alarm.xml #generated:218
+# view res/layout/layout_false_alarm.xml #generated:235
+# view res/layout/set_phrase_fragment.xml #generated:172
+# view res/layout/setting_fragment.xml #generated:195
+# view res/layout/setting_fragment.xml #generated:239
+# view res/layout/setting_fragment.xml #generated:324
+# view res/layout/setting_fragment.xml #generated:409
+# view res/layout/setting_fragment.xml #generated:463
+# view res/layout/setting_fragment.xml #generated:520
+# view res/layout/setting_fragment.xml #generated:557
+# view res/layout/setting_fragment.xml #generated:579
+# view res/layout/setting_fragment.xml #generated:608
+# view res/layout/setting_fragment.xml #generated:61
+# view res/layout/setting_fragment.xml #generated:630
+# view res/layout/setting_fragment.xml #generated:659
+# view res/layout/top_bar.xml #generated:21
+-keep class com.marcopolo.fonts.OpensansSemibold { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.marcopolo.main.MarcoPoloApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.marcopolo.receiver.BootCompleteReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.marcopolo.receiver.EndServiceReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.marcopolo.receiver.FalseAlarmPopUpReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.marcopolo.receiver.StartServiceReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.marcopolo.screens.SplashScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.marcopolo.services.CMUVoiceRecognitionService { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.marcopolo.services.GoogleVoiceService { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.marcopolo.services.NotificationService { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.marcopolo.services.TriggerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:70
+-keep class com.marcopolo.services.WakeUpService { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.marcopolo.utils.WebviewActivity { <init>(...); }
+
+# view res/layout/set_phrase_fragment.xml #generated:160
+-keep class com.marcopolo.views.ButtonRectangle { <init>(...); }
+
+# view res/layout/homescreen.xml #generated:323
+# view res/layout/homescreen.xml #generated:519
+# view res/layout/setting_fragment.xml #generated:120
+-keep class com.marcopolo.views.Slider { <init>(...); }
+
+# view res/layout/homescreen.xml #generated:336
+# view res/layout/homescreen.xml #generated:531
+# view res/layout/setting_fragment.xml #generated:130
+-keep class com.morcopolo.fragments.Fragmentss.DiscreteSeekBar { <init>(...); }
+
+# view res/layout/layout_false_alarm.xml #generated:83
+-keep class com.morcopolo.fragments.Fragmentss.DiscreteSeekBarFalseAlarm { <init>(...); }
+
+# view res/layout/tab.xml #generated:12
+-keep class com.morcopolo.fragments.Fragmentss.SlidingTabLayout { <init>(...); }
+
+# view res/layout/tab.xml #generated:20
+-keep class com.morcopolo.fragments.Fragmentss.TabViewPager { <init>(...); }
+
+# view res/layout/mdtp_date_picker_selected_date.xml #generated:28
+-keep class com.wdullaer.materialdatetimepicker.AccessibleLinearLayout { <init>(...); }
+
+# view res/layout/mdtp_date_picker_selected_date.xml #generated:63
+# view res/layout/mdtp_time_header_label.xml #generated:138
+# view res/layout/mdtp_time_header_label.xml #generated:149
+# view res/layout/mdtp_time_header_label.xml #generated:52
+# view res/layout/mdtp_time_header_label.xml #generated:95
+-keep class com.wdullaer.materialdatetimepicker.AccessibleTextView { <init>(...); }
+
+# view res/layout/mdtp_date_picker_view_animator.xml #generated:16
+-keep class com.wdullaer.materialdatetimepicker.date.AccessibleDateAnimator { <init>(...); }
+
+# view res/layout/mdtp_year_label_text_view.xml #generated:16
+-keep class com.wdullaer.materialdatetimepicker.date.TextViewWithCircularIndicator { <init>(...); }
+
+# view land\res/layout-land/mdtp_time_picker_dialog.xml #generated:24
+# view res/layout/mdtp_time_picker_dialog.xml #generated:39
+-keep class com.wdullaer.materialdatetimepicker.time.RadialPickerLayout { <init>(...); }
+
+# view res/layout/layout_false_alarm_hint.xml #generated:37
+# view res/layout/set_phrase_fragment.xml #generated:66
+-keep class com.wrapp.floatlabelededittext.FloatLabeledEditText { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class org.acra.dialog.CrashReportDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class org.acra.sender.SenderService { <init>(...); }
+
+# view res/layout/preference_widget_switch.xml #generated:22
+# view res/layout/recurrencepicker.xml #generated:66
+-keep class org.jraf.android.backport.switchwidget.Switch { <init>(...); }
+
+# onClick res/layout/app_error_dialog.xml #generated:36
+-keepclassmembers class * { *** onClick(...); }
+

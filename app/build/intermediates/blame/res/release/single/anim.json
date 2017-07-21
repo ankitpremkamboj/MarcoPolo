@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_root_show_amin.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_righttoleft.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\anim_righttoleft.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_up_myprofile.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\slide_up_myprofile.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\zoom_in.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_root_hide_amin.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_hide_animation.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_show_animation.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_down_myprofile.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\slide_down_myprofile.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\progress_indeterminate_animation.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_main_show_amination.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_up.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\zoom_out.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_down.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_main_hide_amination.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\7fd887522f0f1f03a2a3b31a37bfd8d16387a409\\output\\res\\anim\\dialog_main_hide_amination.xml"
+    }
+]

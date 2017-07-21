@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\mdtp_done_text_color_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\color\\mdtp_done_text_color_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\recurrence_bubble_text_color.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\recurrence_bubble_text_color.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\done_text_color_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\done_text_color_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\mdtp_done_text_color.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\color\\mdtp_done_text_color.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\dialog_text_color_holo_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\dialog_text_color_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_track_color_list.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\8a7fb2d3d612dd09af2528212e4976d9b3a74cc6\\output\\res\\color\\dsb_track_color_list.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector.xml",
+        "source": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\src\\main\\res\\color\\selector.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_progress_color_list.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\8a7fb2d3d612dd09af2528212e4976d9b3a74cc6\\output\\res\\color\\dsb_progress_color_list.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_ripple_color_list.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\8a7fb2d3d612dd09af2528212e4976d9b3a74cc6\\output\\res\\color\\dsb_ripple_color_list.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\recurrence_spinner_text_color.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\recurrence_spinner_text_color.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\date_picker_selector.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\date_picker_selector.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\mdtp_date_picker_selector.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\color\\mdtp_date_picker_selector.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\dialog_text_color_holo_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\dialog_text_color_holo_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\5f393f09dd783f4dd69bd75988d8c8865105a0c8\\output\\res\\color\\secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\primary_text_holo_dark.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\5f393f09dd783f4dd69bd75988d8c8865105a0c8\\output\\res\\color\\primary_text_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\done_text_color.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\done_text_color.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\363bc1e8bd53941716bbc6607e09bc033e494eff\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\mdtp_date_picker_year_selector.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\color\\mdtp_date_picker_year_selector.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\date_picker_year_selector.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\color\\date_picker_year_selector.xml"
+    },
+    {
+        "merged": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\ankit\\.android\\build-cache\\ae1c5b78185b438c35b706baab0aedfe6a3e6a3d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    }
+]

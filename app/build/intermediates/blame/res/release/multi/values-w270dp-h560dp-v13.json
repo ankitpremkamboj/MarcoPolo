@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\values-w270dp-h560dp\\values-w270dp-h560dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 68,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 59,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\values-w270dp-h560dp\\values-w270dp-h560dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 59,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 57,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\values-w270dp-h560dp\\values-w270dp-h560dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 57,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 60,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\values-w270dp-h560dp\\values-w270dp-h560dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 60,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endColumn": 59,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\810229f421eb21a2ee0b448fe2b45bb8e3b0e989\\output\\res\\values-w270dp-h560dp\\values-w270dp-h560dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 59,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 63,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 63,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 54,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 54,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 55,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 55,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 54,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\e9e9c599b715ab2466e8ba2c51ee9576cc024a95\\output\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 54,
+                        "endOffset": 428
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:background="@drawable/xml_shape_normal_less_radius"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_Meesage"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/xml_shape_normal_less_radius"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_Soory"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/color_white"
+            android:gravity="center"
+            android:text="Sorry"
+            android:textColor="@color/red_color"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_MissedTextTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_white"
+            android:padding="20dp"
+            android:text=""
+            android:textColor="@color/color_black"
+            android:textSize="16sp"
+         />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/ll_Meesage"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginRight="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_Yes"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border_round_red"
+                android:layout_gravity="center"
+                android:text="Ok"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+                android:textColor="@color/red_color"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+       </RelativeLayout>
+
+      
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_home_screen_bg"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/tv_Close"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:padding="20dp"
+        android:src="@drawable/cross_image" />
+
+    <TextView
+        android:id="@+id/tv_MorcoPolo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="10dp"
+        android:text="Marco Polo"
+        android:textColor="@color/color_yellow"
+        android:textSize="22sp" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="25dp"
+        android:background="@color/color_light_grey" />
+
+    <RelativeLayout
+        android:id="@+id/rl_VolumeContainer"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <TextView
+            android:id="@+id/tv_Volume"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:text="Volume"
+            android:textColor="@color/color__grey"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/tv_Volume" >
+
+            <com.gc.materialdesign.views.Slider
+                android:id="@+id/sliderNumber"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="#E0845B"
+                materialdesign:max="100"
+                materialdesign:min="0"
+                materialdesign:showNumberIndicator="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_light_grey" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <TextView
+            android:id="@+id/sensitivity"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:singleLine="true"
+            android:text="Sensitivity"
+            android:textColor="@color/color__grey"
+            android:textSize="18sp" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/sensitivity" >
+
+            <com.gc.materialdesign.views.Slider
+                android:id="@+id/sensitivtyValue"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="#E0845B"
+                materialdesign:max="100"
+                materialdesign:min="0"
+                materialdesign:showNumberIndicator="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/rl_VolumeContainer"
+        android:background="@color/color_light_grey" />
+
+    <RelativeLayout
+        android:id="@+id/rl_NotificationContainer"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <TextView
+            android:id="@+id/tv_Notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:text="Push Notification"
+            android:textColor="@color/color__grey"
+            android:textSize="18sp" />
+
+        <ToggleButton
+            android:id="@+id/toggle_Notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/toggle_btn_bg"
+            android:textOff=""
+            android:textOn="" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_light_grey" />
+
+    <RelativeLayout
+        android:id="@+id/rl_OverrideSilent"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" >
+
+        <TextView
+            android:id="@+id/tv_OverrideSilent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:text="Override Silent"
+            android:textColor="@color/color__grey"
+            android:textSize="18sp" />
+
+        <ToggleButton
+            android:id="@+id/toggle_Silent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/toggle_btn_bg"
+            android:textOff=""
+            android:textOn="" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view4"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_light_grey" />
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/color_light_grey" />
+
+    <TextView
+        android:id="@+id/tv_NotWorkingTap"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dp"
+        android:text="Not Working Tap Here"
+        android:textColor="@color/color__grey"
+        android:textSize="18sp" />
+
+</LinearLayout>

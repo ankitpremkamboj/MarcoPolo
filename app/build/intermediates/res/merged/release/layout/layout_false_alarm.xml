@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:materialdesign="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:padding="@dimen/_10sdp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.marcopolo.fonts.OpenSansBoldTxt
+                android:id="@+id/tv_head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/cross_icon_image"
+                android:gravity="left|center_vertical"
+                android:maxLines="1"
+                android:padding="@dimen/_3sdp"
+                android:text="Was this a false alarm?"
+                android:textColor="@color/popup_blue"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/cross_icon_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:padding="@dimen/_5sdp"
+                android:src="@drawable/cross_blue_image"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bpLight_gray"
+            android:paddingLeft="@dimen/_10sdp"
+            android:paddingRight="@dimen/_10sdp" />
+
+        <com.marcopolo.fonts.OpenSansRegularTxt
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:maxLines="1"
+            android:text="If so, here are some tips:"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_18sdp"
+            android:visibility="gone" />
+
+        <com.marcopolo.fonts.OpenSansRegularTxt
+            android:id="@+id/sensitity_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:drawableLeft="@drawable/bullet"
+            android:singleLine="true"
+            android:text=" Increase Sensitivity:"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_12sdp" />
+
+        <RelativeLayout
+            android:id="@android:id/content"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_40sdp">
+
+            <com.morcopolo.fragments.Fragmentss.DiscreteSeekBarFalseAlarm
+                android:id="@+id/sensitivtyValue"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                materialdesign:max="100"
+                materialdesign:min="0"
+                materialdesign:showNumberIndicator="true" />
+
+        </RelativeLayout>
+
+        <com.marcopolo.fonts.OpenSansRegularTxt
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:drawableLeft="@drawable/bullet"
+            android:maxLines="1"
+            android:text=" Change Trigger Word:"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_12sdp" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:gravity="center">
+
+            <com.marcopolo.fonts.OpensansSemibold
+                android:id="@+id/tv_hint"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal|center_vertical"
+                android:singleLine="true"
+                android:text="MACARONI TO CHEESE"
+                android:textColor="@color/popup_blue"
+                android:textSize="@dimen/_13sdp" />
+            <!--android:textColor="#eda503"-->
+        </RelativeLayout>
+
+        <com.marcopolo.fonts.OpenSansRegularTxt
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:drawableLeft="@drawable/bullet"
+            android:maxLines="1"
+            android:text=" Switch Recogniser:"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_12sdp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_48sdp"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <com.marcopolo.fonts.OpenSansRegularTxt
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_8sdp"
+                android:text="1"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_20sdp" />
+
+            <ToggleButton
+                android:id="@+id/toggle_Notification"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/toggle_btn_bg"
+                android:textOff=""
+                android:textOn="" />
+
+            <com.marcopolo.fonts.OpenSansRegularTxt
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_8sdp"
+                android:text="2"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_20sdp" />
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/recogniser_radio"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/_5sdp"
+            android:paddingRight="@dimen/_5sdp">
+
+            <com.marcopolo.fonts.BrandonRadioButtonBold
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@drawable/home_radio_selector_falsealarm"
+                android:checked="true"
+                android:paddingLeft="@dimen/_5sdp"
+                android:singleLine="true"
+                android:text="CMU"
+                android:textColor="@color/popup_blue"
+                android:textSize="@dimen/_15sdp" />
+
+            <com.marcopolo.fonts.BrandonRadioButtonBold
+                android:id="@+id/radio2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:button="@drawable/home_radio_selector_falsealarm"
+                android:paddingLeft="@dimen/_5sdp"
+                android:singleLine="true"
+                android:text="Google"
+                android:textColor="@color/popup_blue"
+                android:textSize="@dimen/_15sdp" />
+        </RadioGroup>
+
+        <com.marcopolo.fonts.OpenSansRegularTxt
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/bullet"
+            android:maxLines="1"
+            android:text=" Listen In Background:"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_12sdp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:gravity="center">
+
+            <com.marcopolo.fonts.OpenSansRegularTxt
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="From: "
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_11sdp" />
+
+            <com.marcopolo.fonts.OpensansSemibold
+                android:id="@+id/tv_From"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_2sdp"
+                android:text="From"
+                android:textColor="@color/popup_blue"
+                android:textSize="@dimen/_11sdp" />
+
+            <com.marcopolo.fonts.OpenSansRegularTxt
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_2sdp"
+                android:text=" to "
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_11sdp" />
+
+            <com.marcopolo.fonts.OpensansSemibold
+                android:id="@+id/tv_To"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_2sdp"
+                android:text="To"
+                android:textColor="@color/popup_blue"
+                android:textSize="@dimen/_11sdp" />
+        </LinearLayout>
+
+        <com.marcopolo.fonts.OpenSansBoldTxt
+            android:id="@+id/bt_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:background="@drawable/border_round_red"
+            android:gravity="center"
+            android:maxLines="1"
+            android:paddingBottom="@dimen/_8sdp"
+            android:paddingLeft="@dimen/_16sdp"
+            android:paddingRight="@dimen/_16sdp"
+            android:paddingTop="@dimen/_8sdp"
+            android:text="DONE"
+            android:textColor="@color/popup_blue"
+            android:textSize="@dimen/_20sdp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+        <!--android:textColor="#f47752"-->
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"></FrameLayout>
+</RelativeLayout>

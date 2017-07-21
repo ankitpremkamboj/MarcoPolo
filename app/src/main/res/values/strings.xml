@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Marco Polo V3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_power_off">&#xf011;</string>
+    <string name="string_close">&#xf00d;</string>
+    <string name="string_chevron_down">&#xf078;</string>
+    <string name="string_right_arrow">&#xf061;</string>
+    <string name="dot">&#xf111;</string>
+
+    <!-- Pocket Spenix -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="kws_caption">To start demonstration say \"computer\".</string>
+    <string name="menu_caption">Say \"digits\", \"forecast\" or \"phones\" to choose the grammar, language model or phonetic decoder example.</string>
+    <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
+    <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
+    <string name="phone_caption">To try phonetic recognition say anything.</string>
+    <string name="emailtomarco"><u>help@marcopolo.com</u></string>
+    <string name="set_setting">Google Speech Recognition is required to use MarcoPolo. To install, tap Settings > Offline Speech Recognition > All > Then install the languages you want. Make sure the correct language is selected by tapping the \"Select Language\"</string>
+    <string name="marco_polo">MarcoPolo</string>
+    <string name="not_workign_tittle">If your phone does not respond between the times xx to xx when you shout xxx, then please check the following:</string>
+    <string name="crash_text">Crash Report</string>
+    <string name="tick">&#xf00c;</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8967633097633043/8430910011</string>
+    <string name="record_screen_ad_id">ca-app-pub-8967633097633043/7975507619</string>
+    <string name="whenisay_screen_ad_id">ca-app-pub-8967633097633043/9452240810</string>
+    <string name="respondwith_screen_ad_id">ca-app-pub-8967633097633043/1928974018</string>
+
+    <!-- StartApp Ad. ID -->
+    <string name="startapp_app_id">201690314</string>
+    <string name="home_header_text">Marco Polo Phone Finder</string>
+    <string name="phrase_fragment_header_one">When I Say</string>
+    <string name="record">Record</string>
+    <string name="custom_response">Custom Response</string>
+
+
+    <string name="too_much_battery">Too much battery drain? try this ...</string>
+    <string name="only_listen_in_background">Only listen in background between</string>
+    <string name="switch_recogniser">Switch Recogniser</string>
+    <string name="action_when">Action when hearing marco</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="override_silent">Override Silent</string>
+    <string name="love_our_app">Love our app</string>
+    <string name="share_friends">Share with Friends</string>
+    <string name="need_help">Need Help?</string>
+    <string name="not_working">Not Working? Tap Here</string>
+    <string name="have_recommendation">Have a Recommendation?</string>
+    <string name="settings">Settings</string>
+    <string name="select_audio_file_title">Select Audio File</string>
+    <string name="google_play_link"><![CDATA[https://play.google.com/store/apps/details?id=com.marcopolo&hl=en]]></string>
+    <string name="support_center">Support</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8967633097633043/8910733614</string>
+    <string name="interstitial_ad_unit_id_reply_with">ca-app-pub-8967633097633043/6236468818</string>
+
+
+    <!--TOAST_____MESSAGES-->
+
+    <string name="toast_sensitivity"><![CDATA[The App Responds to Random Sounds?<br /><br />
+
+A loud environment can sometimes accidentally trigger the app to respond. Changing the input phrase to something more complex or adjusting sensitivity can help prevent this.<br /><br />
+
+The lower the number the less false alarms there will be, but the app may respond to the trigger word less often.]]></string>
+
+
+    <string name="toast_switch_recogniser"><![CDATA[The App Is Not Responding?<br /><br />
+
+Some users may not get a response when calling out the trigger word, please try waiting 4 minutes, and try setting a new TRIGGER WORD from the second menu button at the bottom of the screen.<br /><br />
+
+If there is still no response then switch the recogniser.]]></string>
+
+
+    <string name="toast_volume"><![CDATA[Adjust the volume of the text response here. If you want to override "silent" then go to settings.]]></string>
+
+
+    <string name="toast_only_listen"><![CDATA[Marco Polo will only listen in the background during certain times to save battery. Ensure you are calling out during the times it’s listening or change the start and end times to when you\'re most likely to lose your phone.]]></string>
+
+    <string name="toast_push_notification"><![CDATA[Enable this to receive a notification when Marco Polo responds to your trigger word.]]></string>
+
+    <string name="toast_override_silent"><![CDATA[Is your device on silent often? Not a problem, enable this to temprarily increase the volume when your device hears the trigger word - you\'ll never miss a response, nor will it affect your other notifications.]]></string>
+    <string name="got_it">Got it !</string>
+    <string name="timepickerdialog">TimePickerDialog</string>
+    <!--<string name="sample_string"><![CDATA[some test line 1 <br />some test line 2]]></string>-->
+
+</resources>

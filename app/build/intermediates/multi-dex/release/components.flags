@@ -1,0 +1,37 @@
+-injars 'E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\build\intermediates\transforms\proguard\release\jars\3\1f\main.jar'
+-outjars 'E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'E:\Android\AndroidSDK\sdk\build-tools\25.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\InnoAppsProjects\MARCOPOLO\mp2.9.8\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

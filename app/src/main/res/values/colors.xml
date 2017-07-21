@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="sliding_unselectedtabs">#999999</color>
+    <color name="sliding_selectedtabs">#009cdb</color>
+    <color name="light_blue">#71E7EF</color>
+    <color name="popup_blue">#359af6</color>
+    <color name="light_list_background">#52C1F1</color>
+
+
+</resources>

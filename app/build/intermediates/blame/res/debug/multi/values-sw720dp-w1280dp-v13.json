@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\InnoAppsProjects\\MARCOPOLO\\mp2.9.8\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-w1280dp-v13\\values-sw720dp-w1280dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\ankit\\.android\\build-cache\\5f393f09dd783f4dd69bd75988d8c8865105a0c8\\output\\res\\values-sw720dp-w1280dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 54,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    }
+]
